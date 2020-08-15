@@ -13,6 +13,10 @@ public class TestCode : MonoBehaviour
     {
         
     }
+    void usuario1()
+    { 
+        //cambio del usuario 1
+    }
 
     // Update is called once per frame
     void Update()
